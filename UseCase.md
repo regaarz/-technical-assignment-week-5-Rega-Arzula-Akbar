@@ -1,8 +1,6 @@
 Sensor DHT11 adalah module sensor yang berfungsi untuk mensensing objek suhu dan kelembaban yang memiliki output tegangan analog yang dapat diolah lebih lanjut menggunakan mikrokontroler.
 
-Adapun kelebihan dari module sensor ini dibanding module sensor lainnya yaitu dalam segi kualitas pembacaan data sensing yang lebih responsif dengan memliki kecepatan dalam hal sensing objek suhu dan kelembaban, 
-
-dan data yang terbaca tidak mudah terinterverensi.
+Adapun kelebihan dari module sensor ini dibanding module sensor lainnya yaitu dalam segi kualitas pembacaan data sensing yang lebih responsif dengan memliki kecepatan dalam hal sensing objek suhu dan kelembaban, dan data yang terbaca tidak mudah terinterverensi.
 
 [CASE]
 Sebuah kandang dipasang sebuah sensor DHT11 yang digunakan untuk mengetahui perubahan suhu pada kandang dan pada akhirnya data suhu
